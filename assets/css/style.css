@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    font-weight: bold;
+}
+.signo-img {
+    max-width: 200px;
+    display: block;
+    margin: 20px auto;
+    border-radius: 15px;
+}
+.inicial-img {
+    max-width: 400px;
+    display: block;
+    margin: 20px auto;
+    border-radius: 20px;
+}
